@@ -18,3 +18,5 @@ This is a simple mobile calculator app built using the Flutter framework. It pro
 
    ```bash
    git clone https://github.com/yourusername/mobile-calculator-app.git
+
+3. Enjoy your app!
